@@ -1,0 +1,27 @@
+#nav-list {
+    list-style: none;
+}
+
+.nav-link {
+    font-size: 2rem;
+    color: blue;
+}
+
+main {
+    margin-left: 0.25rem;
+}
+
+form {
+    width: fit-content;
+}
+
+fieldset {
+    display: flex;
+    flex-flow: column nowrap;
+    margin-bottom: 0.1rem;
+}
+
+.text-danger {
+    color: red;
+    font-size: 1.25rem;
+}
